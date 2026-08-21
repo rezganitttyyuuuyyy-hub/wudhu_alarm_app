@@ -25,8 +25,9 @@
     "scheme": "wudhualarm",
     "extra": {
       "eas": {
-        "projectId": "77cba99d-d17b-4402-a567-2b"
+        "projectId": "77cba99d-d17b-4402-a567-2b..."
       }
     }
   }
 }
+
